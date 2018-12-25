@@ -40,4 +40,5 @@ See changelog below:
 - Reduced max defensive skill of leader (max of 4 down from 6, attack cap of 5 unchanged)
 - Halved most effects of having no leader in an army
 - Removed confusing or uninspired modifiers from leader traits (reconaissance, speed, attrition, experience, reliability)
+[PENDING] - Update all leader traits for starting OOBs
 
