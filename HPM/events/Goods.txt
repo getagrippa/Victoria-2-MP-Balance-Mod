@@ -73,7 +73,7 @@ province_event = {
 			province_id = 104			# San Francisco
 			province_id = 3				# Kenai
 			province_id = 90			# San Diego
-			province_id = 695			# Königsberg
+			province_id = 695			# KÃ¶nigsberg
 			province_id = 2470			# Port Macquaire Australia
 			province_id = 2471			# Bathurst Australia
 			province_id = 2472			# Eden Australia
@@ -1551,8 +1551,8 @@ province_event = {
 	id = 1139
 
 	trigger = {
-		year = 1855
-		NOT = { year = 1900 }
+		year = 1880
+		NOT = { year = 1930 }
 		or = {
 			province_id = 305			# Trondheim
 			province_id = 307			# Hammerfest
@@ -1582,4 +1582,36 @@ province_event = {
 			duration = -1
 		}
 	}
+
+province_event = {
+	
+	id = 1140
+
+	trigger = {
+		year = 1860
+		NOT = { year = 1930 }
+		or = {
+			province_id = 305			# Trondheim
+			province_id = 307			# Hammerfest
+			province_id = 320			# Umea
+			province_id = 321			# Lulea
+			province_id = 333			# Vaxjo
+			province_id = 631			# Brno
+			}
+		not = { trade_goods = iron }
+	}
+
+	mean_time_to_happen =  {
+		months = 6
+	}
+
+	title = "EVTNAME1140"
+	desc = "EVTDESC1140"
+
+	option = {
+		name = "EVTOPTA1140"
+		trade_goods = iron
+		}
+	}
+
 
