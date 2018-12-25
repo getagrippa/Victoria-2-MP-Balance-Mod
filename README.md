@@ -22,6 +22,7 @@ See changelog below:
 - Reduced AI likilihood of investing in naval bases and forts so they don't go bankrupt
 - Increased casaulty rate to soldier pops, people will actually die in Great Wars now...
 - Increased dig-in time per level from to 10 days
+- Increased war subsidies amount (30% of military expenditures up from 20%)
 
 ### Trade Good Rebalance ###
 
@@ -33,7 +34,6 @@ See changelog below:
 
 - Increased leader hire cost (40 points up from 20)
 - Slightly increased leader lifespan
-- Increased war subsidies amount (30% of military expenditures up from 20%)
 - Added +3 leadership point gain while at war
 - Reduced "Background" and "Personality" traits of leaders to ten each
 - Rebalanced remaining leader traits (removed all solely negative traits, now traits will only have a negative aspect if paired with a comparable bonus.)
