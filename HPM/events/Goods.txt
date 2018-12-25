@@ -1614,6 +1614,7 @@ province_event = {
 			duration = -1
 		}
 	}
+}
 
 province_event = {
 	
