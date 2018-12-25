@@ -25,7 +25,7 @@ leader = {
 	name = "Sultan Alauddin Syah"
 	date = 1836.1.1
 	type = land
-	personality = bigoted
-	background = powerful_friends
+	personality = cautious
+	background = war_college
 }
 
