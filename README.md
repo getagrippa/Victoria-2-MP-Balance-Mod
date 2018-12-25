@@ -7,7 +7,7 @@ See changelog below:
 - Increased the non-core province tax penalty to states from 5% per province to 7.5% per province
 - Doubled the colonial maintenance goods required for overseas provinces
 - Added "Paper" as a colonial maintenance good
-- Increased base output of iron mines and cotton farms
+- Increased base output of iron mines and cotton farms (reduced this buff on iron from 3 to 2, up from base output of 1.8)
 - Tweaked output of some factories and increased bonuses from same state inputs
 - Reduced the effects of war exhaustion on factory and RGO output (max penalty now -80%, down from -100%)
 - Slightly increased the buff to late-game infantry attack from "Stormtrooper Training" invention (+3 attack up from +1)
