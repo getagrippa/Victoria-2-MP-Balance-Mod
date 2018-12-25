@@ -22,6 +22,7 @@ See changelog below:
 - Increased casaulty rate to soldier pops, people will actually die in Great Wars now...
 - Increased dig-in time per level from to 10 days
 - Increased war subsidies amount (30% of military expenditures up from 20%)
+- Changed Austria-Hungary's Reactionary party economic policy from "Interventionism" to "State Capitalism" because it was silly and they need the help
 
 ### Trade Good Rebalance ###
 
