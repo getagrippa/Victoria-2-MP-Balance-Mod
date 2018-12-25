@@ -20,3 +20,5 @@ See changelog below:
 - Slightly increased the naval supply limited gained from naval bases in core provinces
 - Increased the factory savings cap from 3000 to 10000
 - Reduced AI likilihood of investing in naval bases and forts so they don't go bankrupt
+- Increased casaulty rate to soldier pops
+- Increased dig-in time per level from to 10 days
