@@ -1543,12 +1543,44 @@ province_event = {
 	}
 }
 
+province_event = {
+
+	id = 1139
+
+	trigger = {
+		year = 1885
+		province_id = 664		# Bucharest
+		not = { trade_goods = oil }
+		NOT = { has_province_modifier = switched_production }
+		OR = {
+			owner = { part_of_sphere = yes sphere_owner = { invention = cracking } }
+			owner = { part_of_sphere = yes sphere_owner = { any_owned_province = { has_building = fuel_refinery } } }
+			owner = { invention = cracking }
+			owner = { any_owned_province = { has_building = fuel_refinery } }
+			year = 1900
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 8
+	}
+
+	title = "EVTNAME1109"
+	desc = "EVTDESC1109"
+
+	option = {
+		name = "EVTOPTA1109"
+		trade_goods = oil
+		# life_rate = 5
+	}
+}
+
 #############################
 #        IRON EVENTS        #
 #############################
 province_event = {
 	
-	id = 1139
+	id = 1140
 
 	trigger = {
 		year = 1880
@@ -1572,8 +1604,8 @@ province_event = {
 		months = 6
 	}
 
-	title = "EVTNAME1139"
-	desc = "EVTDESC1139"
+	title = "EVTNAME1140"
+	desc = "EVTDESC1140"
 
 	option = {
 		name = "EVTOPTA1139"
@@ -1585,7 +1617,7 @@ province_event = {
 
 province_event = {
 	
-	id = 1140
+	id = 1141
 
 	trigger = {
 		year = 1860
@@ -1602,11 +1634,11 @@ province_event = {
 	}
 
 	mean_time_to_happen =  {
-		months = 6
+		months = 3
 	}
 
-	title = "EVTNAME1140"
-	desc = "EVTDESC1140"
+	title = "EVTNAME1141"
+	desc = "EVTDESC1141"
 
 	option = {
 		name = "EVTOPTA1140"
