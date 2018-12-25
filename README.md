@@ -10,7 +10,8 @@ See changelog below:
 - Increased base output of iron mines and cotton farms
 - Tweaked output of some factories and increased bonuses from same state inputs
 - Reduced the effects of war exhaustion on factory and RGO output (max penalty now -80%, down from -100%)
-- Slightly increased the buff to late-game infantry attack from "Stormtrooper Training" invention
+- Slightly increased the buff to late-game infantry attack from "Stormtrooper Training" invention (+3 attack up from +1)
+- Slightly increased the tank attack and siege values from "Human Wave vs Spearhead" invention (+4 attack up from +1, +2 siege up from +1)
 - Balanced British army size by adding -3% mobilization size penalty from British Raj to reflect reliance on colonial troops
 - Buffed stats on Dreadnoughts
 - Increased Battleship and Dreadnought limits from 2 > 3 and 1 > 2 per appropriate level port, respectively
