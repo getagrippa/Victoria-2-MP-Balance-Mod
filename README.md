@@ -25,5 +25,5 @@ See changelog below:
 
 - Some RGOs in Scandinavia and Moravia will change to "Iron" after 1870 to help mitigate iron shortages
 - Added "High-Quality Iron Ore" modifier to trigger in some provines in Luxembourg, Belgium, Norway, and Sweden after 1880
-- Province 664 - Bucharest will now also spawn oil after 1885 to help mitigate oil shortages
+- Province 664 - Bucharest will now also spawn oil after 1885 to help mitigate oil shortages and to better reflect the importance of Romania in total European oil production
 
