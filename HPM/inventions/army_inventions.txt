@@ -462,7 +462,7 @@ stormtrooper_training = {
 	}
 	effect = {
 		infantry = {
-			attack = 2
+			attack = 3
 		}
 		guard = {
 			attack = 1
@@ -626,9 +626,9 @@ human_wave_vs_spearhead = {
 			defence = 1
 		}
 		tank = {
-			attack = 1
+			attack = 4
 			defence = 1
-			siege = 1	
+			siege = 2	
 			maximum_speed = 1
 		}
 		cuirassier = {
