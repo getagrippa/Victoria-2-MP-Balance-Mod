@@ -21,6 +21,7 @@ See changelog below:
 - Reduced AI likilihood of investing in naval bases and forts so they don't go bankrupt
 - Increased casaulty rate to soldier pops, people will actually die in Great Wars now...
 - Increased dig-in time per level from to 10 days
+- Increased war subsidies amount (30% of military expenditures up from 20%)
 
 ### Trade Good Rebalance ###
 
