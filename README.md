@@ -9,6 +9,7 @@ See changelog below:
 - Added "Paper" as a colonial maintenance good
 - Increased base output of iron mines and cotton farms
 - Tweaked output of some factories and increased bonuses from same state inputs
+- Increased salary of craftsmen, clerks, and capitalist (50% of factory suprlus up from 30%)
 - Reduced the effects of war exhaustion on factory and RGO output (max penalty now -80%, down from -100%)
 - Slightly increased the buff to late-game infantry attack from "Stormtrooper Training" invention (+3 attack up from +1)
 - Slightly increased the tank attack and siege values from "Human Wave vs Spearhead" invention (+4 attack up from +1, +2 siege up from +1)
@@ -27,4 +28,16 @@ See changelog below:
 - Some RGOs in Scandinavia and Moravia will change to "Iron" after 1870 to help mitigate iron shortages
 - Added "High-Quality Iron Ore" modifier to trigger in some provines in Luxembourg, Belgium, Norway, and Sweden after 1880
 - Province 664 - Bucharest will now also spawn oil after 1885 to help mitigate oil shortages and to better reflect the importance of Romania in total European oil production
+
+### Sensible Leaders ###
+
+- Increased leader hire cost (40 points up from 20)
+- Slightly increased leader lifespan
+- Increased war subsidies amount (30% of military expenditures up from 20%)
+- Added +3 leadership point gain while at war
+- Reduced "Background" and "Personality" traits of leaders to ten each
+- Rebalanced remaining leader traits (removed all solely negative traits, now traits will only have a negative aspect if paired with a comparable bonus.)
+- Reduced max defensive skill of leader (max of 4 down from 6, attack cap of 5 unchanged)
+- Halved most effects of having no leader in an army
+- Removed confusing or uninspired modifiers from leader traits (reconaissance, speed, attrition, experience, reliability)
 
