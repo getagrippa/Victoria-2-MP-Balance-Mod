@@ -1074,6 +1074,12 @@ country_event = {
 		NOT = { tag = SUD }
 		NOT = { tag = TPG }
 		NOT = { tag = MGL }
+		NOT = {
+			is_vassal = yes
+			overlord = {
+				government = theocracy
+			}
+		}
 	}
 
 	mean_time_to_happen = { months = 1 }
