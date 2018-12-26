@@ -1,4 +1,4 @@
-# Victoria-2-MP-Balance-Mod
+# Victoria-2-MP-Balance-Mod (Checksum MHVE)
 
 See changelog below:
 
