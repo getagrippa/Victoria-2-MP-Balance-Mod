@@ -1642,9 +1642,43 @@ province_event = {
 	desc = "EVTDESC1141"
 
 	option = {
-		name = "EVTOPTA1140"
+		name = "EVTOPTA1141"
 		trade_goods = iron
 		}
 	}
 
+#############################
+#        COTTON EVENTS        #
+#############################
+
+province_event = {
+	
+	id = 1142
+
+	trigger = {
+		year = 1865
+		NOT = { year = 1930 }
+		or = {
+			province_id = 1745			# Cairo
+			province_id = 2003			# Benguela
+			province_id = 2053			# Sena
+			province_id = 2059			# Quelimane
+			province_id = 2064			# Nampula
+			province_id = 2065			# Milange
+			}
+		not = { trade_goods = cotton }
+	}
+
+	mean_time_to_happen =  {
+		months = 12
+	}
+
+	title = "EVTNAME1142"
+	desc = "EVTDESC1142"
+
+	option = {
+		name = "EVTOPTA1142"
+		trade_goods = cotton
+		}
+	}
 
