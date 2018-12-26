@@ -43,3 +43,4 @@ See changelog below:
 - Significantly increased the boost to cotton plantation output from the "Tractors" invention (0.15 up from 0.03)
 - Increased the production boost from the "Mechanized Mining" province modifier (0.75 up from 0.5)
 - Added cotton RGO change events to reflect historic shifts to African cotton production and to help balance out supply
+- Added iron RGO output nerf event for eight provinces in China and Korea to last through about 1885
