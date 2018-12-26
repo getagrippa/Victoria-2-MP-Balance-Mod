@@ -259,7 +259,7 @@ machine_parts_factory = {
 		coal = 5		#11.5  total input+maint = 66
 	}
 	output_goods = machine_parts 
-	value = 2.5			#73
+	value = 2.25			#73
 	bonus = {
 		trigger = { has_building = steel_factory }
 		value = 0.15
@@ -426,7 +426,7 @@ artillery_factory = {
 clipper_shipyard = {       
 	template = factory_template
 	input_goods = {         
-		fabric = 100		#162
+		fabric = 80		#162
 		lumber = 100		#90
 		steel = 30		#141		total input+maint = 393
 	}
@@ -798,14 +798,14 @@ coffee_plantation = {
 cotton_plantation = {
 	template = RGO_template_farmers
 	output_goods = cotton 
-	value = 2.0 #3
+	value = 1.8 #3
 	farm = yes
 }
 
 dye_plantation = {
 	template = RGO_template_farmers
 	output_goods = dye 
-	value = 0.22
+	value = 0.24
 	farm = yes
 }
 
@@ -826,7 +826,7 @@ grain_farm = {
 iron_mine = {
 	template = RGO_template_labourers
 	output_goods = iron
-	value = 2.0
+	value = 1.8
 	mine = yes
 }
 
