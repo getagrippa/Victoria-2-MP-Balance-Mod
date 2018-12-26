@@ -34,3 +34,8 @@ See changelog below:
 - Reduced fabric input of clipper shipyard's (80 down from 100)
 - Increased base cotton price (2.2 up from 2.0)
 - Increased base iron price (3.8 up from 3.5)
+- Slightly increased iron output boost from "Puddling" tech (0.3 up from 0.25)
+- Slightly increased iron output boost from "Hot Blast" tech (0.3 up from 0.25)
+- Slightly increased coal and iron output boost from "Bessemer Process" tech (0.5 up from 0.4 for coal, 1.0 up from 0.9 for iron)
+- Increased coal and iron output boost from "Advanced Metallurgy" tech (1.0 up from 0.9 for coal, 0.75 up from 0.5 for iron)
+- Increased coal and iron output boost from "Electric Furnace" tech (1.2 up from 1.0 for both)
