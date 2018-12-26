@@ -66,7 +66,7 @@ tractors = {
 		}
 	}
 	effect = {
-		rgo_goods_output = { cotton = 0.03 }
+		rgo_goods_output = { cotton = 0.15 }
 		rgo_goods_output = { coffee = 0.05 }
 		rgo_goods_output = { grain = 0.03 }
 		rgo_goods_output = { opium = 0.03 }
@@ -1282,7 +1282,7 @@ catalytic_fermentative_process = {
 synthetic_dye = {
 	limit = { inorganic_chemistry = 1 }
 	chance = {
-		base = -4
+		base = 1
 		modifier = {
 			factor = 2
 			hot_blast = 1
