@@ -42,3 +42,4 @@ See changelog below:
 - Significantly increased the discovery chance of the "Synthetic Dye" invention (base chance +1 up from -4)
 - Significantly increased the boost to cotton plantation output from the "Tractors" invention (0.15 up from 0.03)
 - Increased the production boost from the "Mechanized Mining" province modifier (0.75 up from 0.5)
+- Added cotton RGO change events to reflect historic shifts to African cotton production and to help balance out supply
