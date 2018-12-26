@@ -41,3 +41,4 @@ See changelog below:
 - Increased coal and iron output boost from "Electric Furnace" tech (1.2 up from 1.0 for both)
 - Significantly increased the discovery chance of the "Synthetic Dye" invention (base chance +1 up from -4)
 - Significantly increased the boost to cotton plantation output from the "Tractors" invention (0.15 up from 0.03)
+- Increased the production boost from the "Mechanized Mining" province modifier (0.75 up from 0.5)
