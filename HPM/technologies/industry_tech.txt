@@ -663,7 +663,7 @@ puddling = {
 		sulphur = 0.2
 	}
 	rgo_goods_output = {
-		iron = 0.25
+		iron = 0.3
 	}
 	rgo_size = {
 		iron = 0.2
@@ -769,7 +769,7 @@ hot_blast = {
 		coal = 0.5
 	}
 	rgo_goods_output = {
-		iron = 0.25
+		iron = 0.3
 	}
 	rgo_size = {
 		iron = 0.2
@@ -857,13 +857,13 @@ bessemer_process = {
 		precious_metal = 0.15
 	}
 	rgo_goods_output = {
-		coal = 0.4
+		coal = 0.5
 	}
 	rgo_size = {
 		coal = 0.4
 	}
 	rgo_goods_output = {
-		iron = 0.9
+		iron = 1.0
 	}
 	rgo_size = {
 		precious_metal = 0.3
@@ -960,10 +960,10 @@ advanced_metallurgy = {
 		sulphur = 0.4
 	}
 	rgo_goods_output = {
-		coal = 0.9
+		coal = 1.0
 	}
 	rgo_goods_output = {
-		iron = 0.5
+		iron = 0.75
 	}
 	rgo_size = {
 		sulphur = 0.4
@@ -1057,10 +1057,10 @@ electric_furnace = {
 		steel = 0.05 
 	}
 	rgo_goods_output = {
-		coal = 1
+		coal = 1.2
 	}
 	rgo_goods_output = {
-		iron = 1
+		iron = 1.2
 	}
 	
 	ai_chance = {
