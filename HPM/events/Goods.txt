@@ -1647,6 +1647,42 @@ province_event = {
 		}
 	}
 
+province_event = {
+	
+	id = 1143
+
+	trigger = {
+		year = 1836
+		NOT = { year = 1930 }
+		or = {
+			province_id = 1522			# Wuchang
+			province_id = 1528			# Yuezhou
+			province_id = 1555			# Jilin
+			province_id = 1613			# Chengde
+			province_id = 1620			# Chonchon
+			province_id = 1621			# Hamhung
+			province_id = 1626			# Haeju
+			province_id = 1627			# Sariwon
+			}
+		not = { has_province_modifier = poor_quality_ore }
+	}
+
+	mean_time_to_happen =  {
+		months = 1
+	}
+
+	title = "EVTNAME1143"
+	desc = "EVTDESC1143"
+
+	option = {
+		name = "EVTOPTA1143"
+		add_province_modifier = {
+			name = poor_quality_ore
+			duration = 18000
+		}
+	}
+}
+
 #############################
 #        COTTON EVENTS        #
 #############################
