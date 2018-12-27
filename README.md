@@ -44,3 +44,8 @@ See changelog below:
 - Increased the production boost from the "Mechanized Mining" province modifier (0.75 up from 0.5)
 - Added cotton RGO change events to reflect historic shifts to African cotton production and to help balance out supply
 - Added iron RGO output nerf event for eight provinces in China and Korea to last through about 1885 so that European iron miners don't immediately get unemployed and migrate away from iron provinces at the start of the game
+
+### Dye Change Fix ###
+
+- Doubled the unemployment required in dye RGOs before "End of Natural Dyes" decision can be taken.
+- Limited decision availability to just those countries that have the synthetic dye invention, or to countries whose overlord or sphere leader has the invention
