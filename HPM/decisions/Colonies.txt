@@ -879,8 +879,6 @@ political_decisions = {
 		picture = tea_production
 		potential = {
 			OR = {
-				any_greater_power = { invention = synthetic_dye }
-				any_neighbor_country = { invention = synthetic_dye }
 				sphere_owner = { invention = synthetic_dye }
 				overlord = { invention = synthetic_dye }
 				invention = synthetic_dye
@@ -889,7 +887,7 @@ political_decisions = {
 				trade_goods = dye
 				controlled_by = THIS
 				province_control_days = 200
-				unemployment_by_type = { type = farmers value = 0.2 }
+				unemployment_by_type = { type = farmers value = 0.4 }
 			}
 		}
 		
