@@ -21,6 +21,7 @@ See changelog below:
 - Increased dig-in time per level (10 days up from 5)
 - Increased war subsidies amount (30% of military expenditures up from 20%)
 - Changed Austria-Hungary's Reactionary party economic policy from "Interventionism" to "State Capitalism" because it was silly and they need the help
+- Added a 0.1 research point bonus to the Dutch East India trigger modifier to better match the one for Britain
 
 ### Trade Good Rebalance ###
 
