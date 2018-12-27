@@ -1,4 +1,4 @@
-# Victoria-2-MP-Balance-Mod (Checksum MHVE)
+# Victoria-2-MP-Balance-Mod (Checksum WOFG)
 
 See changelog below:
 
