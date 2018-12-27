@@ -247,7 +247,7 @@ dutch_east_india = {
 		}
 	}
 	prestige = 0.01
-	mobilisation_size = -0.2
+	research_points = 0.1
 	tax_efficiency = -0.05
 	icon = 19
 }
