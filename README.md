@@ -50,3 +50,8 @@ See changelog below:
 
 - Doubled the unemployment required in dye RGOs before "End of Natural Dyes" decision can be taken.
 - Limited decision availability to just those countries that have the synthetic dye invention, or to countries whose overlord or sphere leader has the invention
+
+TBD
+
+- Increase war exhaustion per casualties rate in lua
+- Decrease war exhaustion reducation amount from the "Total War" triggered modifier
