@@ -55,3 +55,5 @@ TBD
 
 - Increase war exhaustion per casualties rate in lua
 - Decrease war exhaustion reducation amount from the "Total War" triggered modifier
+- Edit core warscore cost
+- Edit "Cut Down" infamy
