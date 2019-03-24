@@ -57,3 +57,5 @@ TBD
 - Decrease war exhaustion reducation amount from the "Total War" triggered modifier
 - Edit core warscore cost
 - Edit "Cut Down" infamy
+- Add social spending base or increased penalties
+- Fix transfer CBs
