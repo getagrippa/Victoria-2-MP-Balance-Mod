@@ -59,3 +59,9 @@ TBD
 - Edit "Cut Down" infamy
 - Add social spending base or increased penalties
 - Fix transfer CBs
+- Rebalance infantry tech boosts to artillery, seems silly
+
+- Messing with academia, to make penalties harsher, and bonuses better. This would prevent nations like britain being able to research every tech fast af.
+- Adding in some conflict generators such as event driven brothers war, and not allowing formaton of germany until its been fought or something. (other nations apply.)
+- adding in a conquest overseas rebellion penalty or something for like 5 years, makes conquered provinces less productive or whatever
+
