@@ -65,3 +65,9 @@ TBD
 - Adding in some conflict generators such as event driven brothers war, and not allowing formaton of germany until its been fought or something. (other nations apply.)
 - adding in a conquest overseas rebellion penalty or something for like 5 years, makes conquered provinces less productive or whatever
 
+
+### HPM Version 0.4.5 ###
+
+Economic Observations
+- Massive unemployment in certain RGOs around 1880 (tea, coal)
+- Insufficient iron supply
