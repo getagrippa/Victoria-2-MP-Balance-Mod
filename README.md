@@ -69,5 +69,5 @@ TBD
 ### HPM Version 0.4.5 ###
 
 Economic Observations
-- Massive unemployment in certain RGOs around 1880 (tea, coal)
+- Massive unemployment in certain RGOs around 1880 (tea, coal [could be related to Indian end of dye production event])
 - Insufficient iron supply
